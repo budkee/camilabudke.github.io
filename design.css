@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'padrão';
+    src: url('AmaticSC-Regular.ttf') format('truetype');
+}
+body {
+   font-family: 'padrão'; 
+   font-size: 30px;
+   background-color: black;
+   color: blanchedalmond;
+}
