@@ -4,7 +4,14 @@
 }
 body {
    font-family: 'padrão'; 
-   font-size: 30px;
+   font-size: 16px;
    background-color: black;
-   color: blanchedalmond;
+   color: #fff;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    justify-content: space-around;
 }
