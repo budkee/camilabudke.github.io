@@ -1,6 +1,6 @@
 # Estudos
 
-## Pontos a descobrir
+## Dúvidas
 - [Como colocar a lista do cabeçalho em sequência?]()
 - [Como arrumar o CSS do cabeçalho?](https://www.w3schools.com/css/css_padding.asp)
 - Como utilizar o script para pegar os elementos - como user e senha - que o usuário me fornece? 
