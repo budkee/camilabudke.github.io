@@ -1,4 +1,7 @@
 {
     "liveServer.settings.port": 5501,
-    "python.defaultInterpreterPath": ""
+    "python.defaultInterpreterPath": "",
+    "code-runner.executorMap": {
+        "python": "python3"
+    }
 }
