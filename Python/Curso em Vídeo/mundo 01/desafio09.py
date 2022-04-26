@@ -1,3 +1,5 @@
+# Tabuada de um número
+
 print('--------- Tabuada ---------\n')
 num = int(input('Digite um número: \n'))
 i = 0

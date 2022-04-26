@@ -1,3 +1,5 @@
+# Cálculo percentual 02
+
 sal = float(input('Qual é o seu salário atual? '))
 aumento = 15/100 * sal
 novo_sal = sal + aumento

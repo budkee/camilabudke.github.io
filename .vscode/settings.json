@@ -2,8 +2,9 @@
     "liveServer.settings.port": 5501,
     "python.defaultInterpreterPath": "",
     "code-runner.executorMap": {
-        "python": "python3"
+        "python": "python3",
+        "javascript": "node"
     },
-    "code-runner.runInTerminal": false
+    "code-runner.runInTerminal": true
 
 }
