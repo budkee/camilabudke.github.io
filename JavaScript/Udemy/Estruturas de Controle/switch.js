@@ -21,4 +21,4 @@ const imprimirResultado = function(nota) {
     console.log('Fim')
 }
 
-imprimirResultado(5.6)
+imprimirResultado(10)

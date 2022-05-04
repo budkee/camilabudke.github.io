@@ -4,5 +4,5 @@ const soma = a + b + c + d
 const subtracao = d - b
 const multiplicacao = a * b
 const divisao = d / a
-const modulo = a % 2 // Se for par é 0, se for impar é 1.
+const modulo = a % 2 // Resto da divisão.
 console.log( soma, subtracao, multiplicacao, -divisao, modulo)

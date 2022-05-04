@@ -12,7 +12,7 @@ p1.falar()
 
 const pessoa = nome => {
     return [
-        falar: () => console.log(`Meu nome é ${nome}`)
+        falar, () => console.log(`Meu nome é ${nome}`)
     ]
 }
 
