@@ -5,6 +5,6 @@
         "python": "python3",
         "javascript": "node"
     },
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": false
 
 }
