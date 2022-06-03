@@ -1,7 +1,7 @@
 // Serve para mapear os elementos de um array original, gerando um novo array a partir do original.
 const nums = [ 1, 2, 3, 4, 5]
 
-// Função map é um for com propósito
+// Função map é um laço for com propósito definido
 let resultado = nums.map(function(e) {
     return e * 2
 })
