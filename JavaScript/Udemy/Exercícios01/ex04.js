@@ -1,7 +1,7 @@
-// Função da divisão - Parâmetros (dividendo,divisor), Retorno (quociente, resto)
+// Função da divisão - Parâmetros (dividendo,divisor), Retorno (resto, quociente)
 function Divisao(dividendo, divisor) {
     quoc = dividendo / divisor
     resto = dividendo % divisor
-    return [quoc, resto]
+    return [resto, quoc]
 }
 console.log(Divisao(323, 2))
