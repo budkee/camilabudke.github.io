@@ -1,5 +1,6 @@
 // Lista da pontuação dos jogos e retorno de um vetor com quantas vezes ela bateu seu recorde de pontos e o pior jogo da temporada.
 let string = "10, 20, 20, 8, 25, 3, 0, 30, 1"
+
 // 1. Separar os elementos da string
 function separadorDeString(stringASerSeparada, separador) {
     var arrayDaString = stringASerSeparada.split(separador);
@@ -14,6 +15,3 @@ const pontuacoes = separadorDeString(string, comma);
 
 // 2. 
 
-for (let i in pontuacoes) {
-    return console.log(i, pontuacoes[i]) 
-}
